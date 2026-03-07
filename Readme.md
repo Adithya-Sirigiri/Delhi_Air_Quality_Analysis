@@ -53,7 +53,7 @@ Delhi_Air_Quality/
 │   ├── Punjabi_Bagh/
 │   ├── RK_Puram/
 │   └── Rohini/
-├── data/clean/
+├── data_clean/
 │   ├── delhi_aqi_clean.csv
 │   └── delhi_aqi_weather.csv
 ├── dehi_AQI_analysis.ipynb
@@ -125,4 +125,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap openmeteo-
 ## Author
 
 **Adithya**
-[GitHub](https://github.com/Adithya-Sirigiri)
